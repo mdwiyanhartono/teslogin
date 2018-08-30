@@ -23,7 +23,7 @@ public class ImageAdapter extends BaseAdapter {
     @Override
     public int getCount() {
         return image.length;
-
+        //jfjfjf
     }
 
     @Override
